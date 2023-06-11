@@ -1,0 +1,81 @@
+/* .counter {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  h2 {
+    font-size: 48px;
+    color: #333;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 24px;
+    margin: 10px;
+    background-color: #4287f5;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #3377d6;
+  }
+  
+  #reset {
+    background-color: #f54242;
+  }
+  
+  #reset:hover {
+    background-color: #d63333;
+  }
+   */
+
+
+   .candidates {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .candidate {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #555;
+  }
+  
+  .vote-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4287f5;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .vote-button:hover {
+    background-color: #3377d6;
+  }
+  
+  .vote-count {
+    display: block;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #555;
+  }
+  
