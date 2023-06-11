@@ -1,40 +1,4 @@
-/* .counter {
-    text-align: center;
-    margin-top: 100px;
-  }
-  
-  h2 {
-    font-size: 48px;
-    color: #333;
-  }
-  
-  button {
-    padding: 10px 20px;
-    font-size: 24px;
-    margin: 10px;
-    background-color: #4287f5;
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  button:hover {
-    background-color: #3377d6;
-  }
-  
-  #reset {
-    background-color: #f54242;
-  }
-  
-  #reset:hover {
-    background-color: #d63333;
-  }
-   */
-
-
-   .candidates {
+  .candidates {
     display: flex;
     justify-content: center;
   }
